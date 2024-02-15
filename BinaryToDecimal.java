@@ -13,7 +13,7 @@ public class BinaryToDecimal {
         }
         System.out.println("decimal of " + myNum +" = " + decNum);
     }
-    
+    //======
     public static void main(String args[]) {
         binToDec(111);
     }
